@@ -65,3 +65,6 @@ It is the final code joining all the parts. It performs the whole function of sm
     e.  utilities: It contains trained model of YOLOv2, maskClassifier, faceClassifier.
 
     f.  data: It contains the test data for testing the code.
+    
+## 4. Result:
+<img width="411" alt="image" src="https://user-images.githubusercontent.com/62088646/204082914-1caa4f36-2299-4537-8d3b-ad9d3c9619bf.png">
