@@ -2,7 +2,7 @@ With Regards Team Bazinga ;)
 
 The Following codes is to be run in MATLAB r2020a version or newer The data given is personal. It should not be duplicated or altered.
 
-## 1.Yoloobjectdetector:
+## [1.Yoloobjectdetector](https://github.com/Bishal1022/Mask-NoMask/tree/main/1.Yoloobjectdetector):
 
 It detects human face from the given frame using yolov2 algorithm. It puts a bounding box identifying human face from the
 body.
@@ -26,7 +26,7 @@ body.
 
     e.  data: It contains the data to test the YOLOv2.
 
-## 2. Masknomaskclassifier:
+## [2.Masknomaskclassifier](https://github.com/Bishal1022/Mask-NoMask/tree/main/2.Masknomaskclassifier):
 
 It classifies if the person is wearing mask or not. Here, we've trained the model.
 
@@ -38,7 +38,7 @@ It classifies if the person is wearing mask or not. Here, we've trained the mode
 
     d.  TrainingData: It is the sample training data used for training the model.
 
-## 3. FaceClassifier:
+## [3.FaceClassifier](https://github.com/Bishal1022/Mask-NoMask/tree/main/3.FaceClassifier):
 
 It identifies the face of the people. Here, we've trained the model.
 
@@ -50,7 +50,7 @@ It identifies the face of the people. Here, we've trained the model.
 
     d.  TrainingData: It is the sample training data used for training the model.
 
-## 4. Final code:
+## [4.Final code](https://github.com/Bishal1022/Mask-NoMask/tree/main/4.Final%20code):
 
 It is the final code joining all the parts. It performs the whole function of smart mask/no-mask recognition.
 
@@ -66,5 +66,10 @@ It is the final code joining all the parts. It performs the whole function of sm
 
     f.  data: It contains the test data for testing the code.
     
-## 4. Result:
-<img width="411" alt="image" src="https://user-images.githubusercontent.com/62088646/204082914-1caa4f36-2299-4537-8d3b-ad9d3c9619bf.png">
+## 5. Results:
+
+
+## 6. Achievement:
+<p align="center">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/62088646/204082914-1caa4f36-2299-4537-8d3b-ad9d3c9619bf.png">
+</p>
