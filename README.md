@@ -2,7 +2,7 @@
 
 With Regards Team Bazinga ;)
 
-The Following codes is to be run in MATLAB r2020a version or newer The data given is personal. It should not be duplicated or altered.
+The Following codes is to be run in MATLAB r2020a version or newer. The data given are personal, it should not be duplicated or altered.
 
 ## [1.Yoloobjectdetector](https://github.com/Bishal1022/Mask-NoMask/tree/main/1.Yoloobjectdetector):
 
