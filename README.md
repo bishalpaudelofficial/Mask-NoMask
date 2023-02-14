@@ -79,7 +79,7 @@ It is the final code joining all the parts. It performs the whole function of sm
 ## 5. Results:
 In result we can see two situations:
 
-1) When the person is wearing mask: It detects the mask and displays "Mask detected" \
+1) When the person is wearing mask: It detects the mask and displays "Mask detected" 
 2) When the person is not wearing mask: It identifies the person from the dataset and displays "person_name wear mask save life"
 
 <p align="center">
